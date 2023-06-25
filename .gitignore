@@ -1,0 +1,18 @@
+# IDEs
+.idea/
+.vscode/
+.vscode-test
+
+# MacOS
+.DS_Store
+
+# Configuration
+src/configuration/values/local.yml
+.env
+.env.test
+.env.production
+
+# NodeJS
+node_modules/
+.yarn
+yarn-error*
